@@ -23,5 +23,3 @@
 <img src="https://github.com/qian-o/qian-o/assets/84434846/4db58529-5057-40a1-bcfa-fdabb67bdbb6" width="30%" >
 <img src="https://github.com/qian-o/qian-o/assets/84434846/d8055b24-2f1a-40a6-b870-de4956db68fe" width="30%" >
 <img src="https://github.com/qian-o/qian-o/assets/84434846/da57deac-e5d2-4172-81dc-32b678fe152c" width="30%" >
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qian-o&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
