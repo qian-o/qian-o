@@ -17,7 +17,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qian-o/qian-o/output/github-contribution-grid-snake.svg">
 </div>
 
-### 联系方式
+### 📫 联系方式
 - QQ : 1324771795
 - 微信 : wx7976760
 - E-mail : 1324771795@qq.com、15718810177@163.com
