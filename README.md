@@ -17,7 +17,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qian-o/qian-o/output/github-contribution-grid-snake.svg">
 </div>
 
-### 📫 联系方式
-- QQ : 1324771795
-- 微信 : wx7976760
-- E-mail : 1324771795@qq.com、15718810177@163.com
+### Contact
+- QQ: 1324771795
+- WeChat: wx7976760
+- Email: 1324771795@qq.com, 15718810177@163.com
+
+### Notice
+I am currently dealing with health issues, so updates and repository maintenance may be delayed for the time being. I expect to resume updating and managing my repositories sometime after June. Thank you for your understanding.
