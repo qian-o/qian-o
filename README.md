@@ -23,4 +23,4 @@
 - Email: 1324771795@qq.com, 15718810177@163.com
 
 ### Notice
-I am currently dealing with health issues, so updates and repository maintenance may be delayed for the time being. I expect to resume updating and managing my repositories sometime after June. Thank you for your understanding.
+I will be undergoing surgery in early June, so updates and repository maintenance may be delayed — possibly until the end of the month. Thank you for your understanding and patience.
