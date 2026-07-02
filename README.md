@@ -21,6 +21,3 @@
 - QQ: 1324771795
 - WeChat: wx7976760
 - Email: 1324771795@qq.com, 15718810177@163.com
-
-### Notice
-I will be undergoing surgery in early June, so updates and repository maintenance may be delayed — possibly until the end of the month. Thank you for your understanding and patience.
