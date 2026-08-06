@@ -11,8 +11,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=qian-o&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=79c0ff&area_color=161b22&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
 
-<hr />
-
 <h2 align="center">Contact</h2>
 
 <p align="center">
