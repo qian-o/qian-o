@@ -1,23 +1,26 @@
-<div align = "center">
-  <img src="https://github.com/qian-o/qian-o/assets/84434846/1d1b8c0b-f2c2-44c6-a2b9-71520906c11a" width="100">
+<div align="center">
+  <img src="https://github.com/qian-o/qian-o/assets/84434846/1d1b8c0b-f2c2-44c6-a2b9-71520906c11a" width="100" alt="qian-o" />
 </div>
 
-<div align = "center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=qian-o&show_icons=true&locale=en&layout=compact&line_height=0&theme=ambient_gradient" />
+<div align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=qian-o&hide=contribs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" alt="qian-o's GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qian-o&size_weight=0.2&count_weight=0.8&hide=html&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top languages" />
 </div>
 
-<div align = "center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=qian-o&hide=contribs&show_icons=true&theme=ambient_gradient" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qian-o&size_weight=0.2&count_weight=0.8&hide=html&layout=compact&langs_count=8&theme=ambient_gradient" />
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=qian-o&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=79c0ff&area_color=161b22&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
 
-<div align = "center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qian-o/qian-o/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qian-o/qian-o/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qian-o/qian-o/output/github-contribution-grid-snake.svg">
-</div>
+<hr />
 
-### Contact
-- QQ: 1324771795
-- WeChat: wx7976760
-- Email: 1324771795@qq.com, 15718810177@163.com
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  <a href="mailto:1324771795@qq.com"><img src="https://img.shields.io/badge/Email-1324771795%40qq.com-2563EB?style=for-the-badge" alt="Email 1324771795@qq.com" /></a>
+  <a href="mailto:15718810177@163.com"><img src="https://img.shields.io/badge/Email-15718810177%40163.com-475569?style=for-the-badge" alt="Email 15718810177@163.com" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QQ-1324771795-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ 1324771795" />
+  <img src="https://img.shields.io/badge/WeChat-wx7976760-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat wx7976760" />
+</p>
