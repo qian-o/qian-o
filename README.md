@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/qian-o/qian-o/assets/84434846/1d1b8c0b-f2c2-44c6-a2b9-71520906c11a" width="100" alt="qian-o" />
+  <img width="350" height="350" alt="垃圾桶" src="https://github.com/user-attachments/assets/37e24abb-5a23-4e52-9e3e-2a5c62290cf0" />
 </div>
 
 <div align="center">
